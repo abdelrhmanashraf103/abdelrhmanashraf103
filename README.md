@@ -1,9 +1,9 @@
 <div align="center">
-  <!-- Animated Header with Gradient -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=200&section=header&text=Abdelrahman%20Haroun&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=35" />
+  <!-- Animated Header with Enhanced Gradient -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:60a5fa&height=200&section=header&text=Abdelrahman%20Haroun&fontSize=48&fontColor=f0f9ff&animation=fadeIn&fontAlignY=35" />
   
-  <!-- Typing Animation with More Lines -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Business+Intelligence+Specialist;Former+Samsung+Professional;Python+%7C+SQL+%7C+Machine+Learning;Turning+Data+Into+Business+Insights;Always+Learning+New+Technologies" />
+  <!-- Typing Animation with Better Color -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=60a5fa&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Business+Intelligence+Specialist;Former+Samsung+Professional;Python+%7C+SQL+%7C+Machine+Learning;Turning+Data+Into+Business+Insights;Always+Learning+New+Technologies" />
   
   <br><br>
   
@@ -47,47 +47,47 @@
   
   <br><br>
   
-  <!-- Animated Badges with More Skills -->
-  <img src="https://img.shields.io/badge/Data_Visualization-238636?style=for-the-badge&logo=powerbi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Analytics-1f6feb?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-8957e5?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Big_Data-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud_Computing-FF9900?style=for-the-badge&logo=aws&logoColor=white"/>
+  <!-- Animated Badges with Better Colors -->
+  <img src="https://img.shields.io/badge/Data_Visualization-00b4d8?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Analytics-0077b6?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-ff6b35?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Big_Data-4285f4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud_Computing-ff9900?style=for-the-badge&logo=aws&logoColor=white"/>
   
   <br><br>
   
-  <!-- GitHub Stats with Enhanced Features -->
+  <!-- GitHub Stats with Enhanced Colors -->
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=abdelrhmanashraf103&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="495"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=abdelrhmanashraf103&show_icons=true&theme=ocean-dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=f0f9ff" width="495"/>
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrhmanashraf103&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" width="495"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrhmanashraf103&theme=ocean-dark&hide_border=true&background=0d1117&stroke=60a5fa&ring=60a5fa&fire=ff6b35&currStreakLabel=f0f9ff" width="495"/>
       </td>
     </tr>
   </table>
   
   <br><br>
   
-  <!-- Top Languages & Activity Graph -->
+  <!-- Top Languages & Activity Graph with Better Colors -->
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhmanashraf103&layout=compact&theme=radical&hide_border=true&langs_count=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="495"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhmanashraf103&layout=compact&theme=ocean-dark&hide_border=true&langs_count=10&bg_color=0d1117&title_color=60a5fa&text_color=f0f9ff" width="495"/>
       </td>
       <td>
-        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abdelrhmanashraf103&theme=radical&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=FF6B6B&point=FFFFFF" width="495"/>
+        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abdelrhmanashraf103&theme=ocean-dark&hide_border=true&area=true&bg_color=0d1117&color=60a5fa&line=ff6b35&point=f0f9ff" width="495"/>
       </td>
     </tr>
   </table>
   
   <br><br>
   
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=abdelrhmanashraf103&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="100%"/>
+  <!-- GitHub Trophies with Better Colors -->
+  <img src="https://github-profile-trophy.vercel.app/?username=abdelrhmanashraf103&theme=ocean-dark&no-frame=true&no-bg=true&margin-w=4" width="100%"/>
   
   <br><br>
   
@@ -161,24 +161,24 @@
     <tr>
       <td width="50%">
         <a href="https://github.com/abdelrhmanashraf103/customer-segmentation">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrhmanashraf103&repo=customer-segmentation&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrhmanashraf103&repo=customer-segmentation&theme=ocean-dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=f0f9ff" />
         </a>
       </td>
       <td width="50%">
         <a href="https://github.com/abdelrhmanashraf103/sales-forecasting">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrhmanashraf103&repo=sales-forecasting&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrhmanashraf103&repo=sales-forecasting&theme=ocean-dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=f0f9ff" />
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%">
         <a href="https://github.com/abdelrhmanashraf103/dashboard-analytics">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrhmanashraf103&repo=dashboard-analytics&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrhmanashraf103&repo=dashboard-analytics&theme=ocean-dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=f0f9ff" />
         </a>
       </td>
       <td width="50%">
         <a href="https://github.com/abdelrhmanashraf103/data-pipeline">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrhmanashraf103&repo=data-pipeline&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrhmanashraf103&repo=data-pipeline&theme=ocean-dark&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=f0f9ff" />
         </a>
       </td>
     </tr>
@@ -192,76 +192,76 @@
   <table>
     <tr>
       <td width="33%">
-        <img src="https://img.shields.io/badge/AWS_Certified_Data_Analytics-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS_Certified_Data_Analytics-ff9900?style=for-the-badge&logo=amazon&logoColor=white"/>
       </td>
       <td width="33%">
-        <img src="https://img.shields.io/badge/Google_Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Google_Data_Analytics-4285f4?style=for-the-badge&logo=google&logoColor=white"/>
       </td>
       <td width="33%">
-        <img src="https://img.shields.io/badge/Microsoft_Power_BI-238636?style=for-the-badge&logo=microsoft&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Microsoft_Power_BI-00b4d8?style=for-the-badge&logo=microsoft&logoColor=white"/>
       </td>
     </tr>
   </table>
   
   <br><br>
   
-  <!-- Connect with More Options -->
+  <!-- Connect with Better Colors -->
   <h2>🌐 Let's Connect</h2>
   
   <a href="https://linkedin.com/in/abdelrahman-haroun">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077b6?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
   <a href="https://x.com/abdo_ashraf103">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-1e3a8a?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   
   <a href="https://kaggle.com/abdelrhmanashraf103">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kaggle-20beff?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
   
   <a href="https://medium.com/@abdelrhmanashraf103">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Medium-12100e?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
   
   <a href="https://stackoverflow.com/users/abdelrhmanashraf103">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Stack_Overflow-f48024?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
   </a>
   
   <a href="https://tableau.com/abdelrhmanashraf103">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tableau-e97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   </a>
   
   <a href="mailto:bnashraf440@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   
   <br><br>
   
-  <!-- Visitor Counter & Quote with Better Layout -->
+  <!-- Visitor Counter & Quote with Better Colors -->
   <table>
     <tr>
       <td width="50%">
-        <img src="https://komarev.com/ghpvc/?username=abdelrhmanashraf103&color=58a6ff&style=flat-square" />
-        <img src="https://img.shields.io/github/followers/abdelrhmanashraf103?label=Followers&style=flat-square&color=58a6ff" />
-        <img src="https://img.shields.io/github/stars/abdelrhmanashraf103?label=Stars&style=flat-square&color=58a6ff" />
+        <img src="https://komarev.com/ghpvc/?username=abdelrhmanashraf103&color=60a5fa&style=flat-square" />
+        <img src="https://img.shields.io/github/followers/abdelrhmanashraf103?label=Followers&style=flat-square&color=60a5fa" />
+        <img src="https://img.shields.io/github/stars/abdelrhmanashraf103?label=Stars&style=flat-square&color=60a5fa" />
       </td>
       <td width="50%">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Data+is+the+new+oil.+It's+valuable,+but+if+unrefined+it+cannot+really+be+used.&author=Clive+Humby" />
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=ocean-dark&quote=Data+is+the+new+oil.+It's+valuable,+but+if+unrefined+it+cannot+really+be+used.&author=Clive+Humby" />
       </td>
     </tr>
   </table>
   
   <br><br>
   
-  <!-- Contribution Graph -->
+  <!-- Contribution Graph with Better Colors -->
   <h2>📊 Contribution Activity</h2>
-  <img src="https://ghchart.rshah.org/58a6ff/abdelrhmanashraf103" alt="Abdelrahman's Github chart" width="100%"/>
+  <img src="https://ghchart.rshah.org/60a5fa/abdelrhmanashraf103" alt="Abdelrahman's Github chart" width="100%"/>
   
   <br><br>
   
-  <!-- Footer Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:238636,100:0d1117&height=120&section=footer"/>
+  <!-- Footer Wave with Enhanced Gradient -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:60a5fa&height=120&section=footer"/>
   
   <!-- Hidden Section for Fun -->
   <details>
