@@ -48,4 +48,78 @@
   <div style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center; margin: 15px 0; animation: slideUp 2.4s ease-out;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" title="MySQL" style="transition: transform 0.3s ease, filter 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(10deg)'; this.style.filter='drop-shadow(0 0 10px rgba(88, 166, 255, 0.7))'" onmouseout="this.style.transform='scale(1) rotate(0deg)'; this.style.filter='none'"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" title="PostgreSQL" style="transition: transform 0.3s ease, filter 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(10deg)'; this.style.filter='drop-shadow(0 0 10px rgba(88, 166, 255, 0.7))'" onmouseout="this.style.transform='scale(1) rotate(0deg)'; this.style.filter='none'"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" title="MongoDB" style="transition: transform 0.3s ease, filter 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(10deg)'; this.style.filter='drop-shadow(0 0 10px rgba(88, 166, 255, 0.7))'" onmouseout="this.style.transfor
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" title="MongoDB" style="transition: transform 0.3s ease, filter 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(10deg)'; this.style.filter='drop-shadow(0 0 10px rgba(88, 166, 255, 0.7))'" onmouseout="this.style.transform='scale(1) rotate(0deg)'; this.style.filter='none'"/>
+  </div>
+
+  <!-- Data Visualization -->
+  <h3 style="animation: fadeIn 2.6s ease-out;">Data Visualization 📊</h3>
+  <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; margin: 10px 0; animation: slideUp 2.6s ease-out;">
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" style="transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 5px 15px rgba(242, 200, 17, 0.5)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'"/>
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" style="transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 5px 15px rgba(233, 118, 39, 0.5)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'"/>
+  </div>
+
+  <!-- Data Science -->
+  <h3 style="animation: fadeIn 2.8s ease-out;">Data Science 🧠</h3>
+  <div style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center; margin: 15px 0; animation: slideUp 2.8s ease-out;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" title="Pandas" style="transition: transform 0.3s ease, filter 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(10deg)'; this.style.filter='drop-shadow(0 0 10px rgba(88, 166, 255, 0.7))'" onmouseout="this.style.transform='scale(1) rotate(0deg)'; this.style.filter='none'"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" title="NumPy" style="transition: transform 0.3s ease, filter 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(10deg)'; this.style.filter='drop-shadow(0 0 10px rgba(88, 166, 255, 0.7))'" onmouseout="this.style.transform='scale(1) rotate(0deg)'; this.style.filter='none'"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" title="Jupyter" style="transition: transform 0.3s ease, filter 0.3s ease;" onmouseover="this.style.transform='scale(1.2) rotate(10deg)'; this.style.filter='drop-shadow(0 0 10px rgba(88, 166, 255, 0.7))'" onmouseout="this.style.transform='scale(1) rotate(0deg)'; this.style.filter='none'"/>
+  </div>
+
+  <!-- Projects Section -->
+  <h2 style="margin-top: 30px; animation: fadeIn 3s ease-out;">Featured Projects 🚀</h2>
+  <p style="animation: fadeIn 3.2s ease-out;">Check out my pinned repositories below to see some of my data analysis projects!</p>
+
+  <!-- Connect Section -->
+  <h2 style="margin-top: 30px; animation: fadeIn 3.4s ease-out;">Let's Connect 🌐</h2>
+  <div align="center" style="animation: slideUp 3.4s ease-out;">
+    <a href="https://linkedin.com/in/abdelrahman-haroun" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.1) translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(0, 119, 181, 0.5)'" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.boxShadow='none'"/>
+    </a>
+    <a href="https://x.com/abdo_ashraf103" target="_blank">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" style="transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.1) translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(0, 0, 0, 0.5)'" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.boxShadow='none'"/>
+    </a>
+    <a href="mailto:bnashraf440@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.1) translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(209, 72, 54, 0.5)'" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.boxShadow='none'"/>
+    </a>
+  </div>
+
+  <!-- Profile Views -->
+  <br>
+  <div style="animation: fadeIn 3.6s ease-out;">
+    <img src="https://komarev.com/ghpvc/?username=abdelrhmanashraf103&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" style="border-radius: 20px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  </div>
+  
+  <!-- Closing -->
+  <p style="animation: fadeIn 3.8s ease-out;">Thanks for visiting my profile! Feel free to explore my repositories and get in touch. 🚀</p>
+</div>
+
+<style>
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+  
+  @keyframes slideIn {
+    from { transform: translateX(-20px); opacity: 0; }
+    to { transform: translateX(0); opacity: 1; }
+  }
+  
+  @keyframes slideUp {
+    from { transform: translateY(20px); opacity: 0; }
+    to { transform: translateY(0); opacity: 1; }
+  }
+  
+  @keyframes bounceIn {
+    0% { transform: scale(0.3); opacity: 0; }
+    50% { transform: scale(1.05); }
+    70% { transform: scale(0.9); }
+    100% { transform: scale(1); opacity: 1; }
+  }
+  
+  @keyframes pulse {
+    0% { text-shadow: 0 0 10px rgba(88, 166, 255, 0.5); }
+    50% { text-shadow: 0 0 20px rgba(88, 166, 255, 0.8); }
+    100% { text-shadow: 0 0 10px rgba(88, 166, 255, 0.5); }
+  }
+</style>
