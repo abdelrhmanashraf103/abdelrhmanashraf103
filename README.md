@@ -8,7 +8,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=Data+Analyst+%7C+Former+Samsung+Professional;Transforming+Raw+Data+into+Strategic+Insights+%F0%9F%93%8A;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau" alt="Typing SVG" />
   </a>
 
-
   <!-- Animated Badges -->
   <p align="center">
     <a href="https://github.com/abdelrhmanashraf103?tab=repositories">
@@ -55,9 +54,6 @@
 
   # 📊 GitHub Statistics
 
- <!-- ## 🏆 GitHub Trophies
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abdelrhmanashraf103&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)
-  -->
   ## 📈 Statistics Overview
   
   ### GitHub Stats & Streak
@@ -100,32 +96,27 @@
   <!-- Animated Divider -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-   ## 🚀 Featured Projects
- 
- <p align="center">
-   
-   ## 🚀 Featured Projects
+  ## 🚀 Featured Projects
 
-  <div align="center">
-    <p align="center">
-      ### 💼 Portfolio Website
-      <a href="https://github.com/abdelrhmanashraf103/MyPortfolio.github.io">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrhmanashraf103&repo=MyPortfolio.github.io&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Portfolio Project" width="45%"/>
-      </a>
-    </p>
-
+  ### 💼 Portfolio Website
   <p align="center">
-      ### 📊 Data Analysis Projects
-      <a href="https://github.com/abdelrhmanashraf103?tab=repositories">
-        <img src="https://img.shields.io/badge/📊_Data_Analysis_Projects-View_Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Data Analysis Projects"/>
-      </a>
-    </p>
+    <a href="https://github.com/abdelrhmanashraf103/MyPortfolio.github.io">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrhmanashraf103&repo=MyPortfolio.github.io&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Portfolio Project" width="45%"/>
+    </a>
+  </p>
+
+  ### 📊 Data Analysis Projects
+  <p align="center">
+    <a href="https://github.com/abdelrhmanashraf103?tab=repositories">
+      <img src="https://img.shields.io/badge/📊_Data_Analysis_Projects-View_Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Data Analysis Projects"/>
+    </a>
+  </p>
  
- <p align="center">
-   <a href="https://github.com/abdelrhmanashraf103?tab=repositories">
-     <img src="https://img.shields.io/badge/📂_View_All_Projects-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
-   </a>
- </p>
+  <p align="center">
+    <a href="https://github.com/abdelrhmanashraf103?tab=repositories">
+      <img src="https://img.shields.io/badge/📂_View_All_Projects-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
+    </a>
+  </p>
 
   <!-- Animated Divider -->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
