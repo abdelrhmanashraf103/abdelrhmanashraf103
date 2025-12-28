@@ -101,7 +101,8 @@
   ### 💼 Portfolio Website
   <p align="center">
     <a href="https://github.com/abdelrhmanashraf103/MyPortfolio.github.io">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrhmanashraf103&repo=MyPortfolio.github.io&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Portfolio Project" width="45%"/>
+    
+  <img src="[https://img.shields.io/badge/📊_Data_Analysis_Projects-View_Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white](https://github-readme-stats.vercel.app/api/pin/?username=abdelrhmanashraf103&repo=MyPortfolio.github.io&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9")" alt="Data Analysis Projects"/>
     </a>
   </p>
 
