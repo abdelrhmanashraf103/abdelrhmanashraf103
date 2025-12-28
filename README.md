@@ -8,7 +8,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=Data+Analyst+%7C+Former+Samsung+Professional;Transforming+Raw+Data+into+Strategic+Insights+%F0%9F%93%8A;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau" alt="Typing SVG" />
   </a>
 
-    <!-- Animated Badges -->
+
+  <!-- Animated Badges -->
   <p align="center">
     <a href="https://github.com/abdelrhmanashraf103?tab=repositories">
       <img src="https://img.shields.io/badge/Data-Visualization-238636?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Data Viz"/>
