@@ -54,9 +54,9 @@
 
   # 📊 GitHub Statistics
 
-  ## 🏆 GitHub Trophies
+ <!-- ## 🏆 GitHub Trophies
   ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abdelrhmanashraf103&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)
-  
+  -->
   ## 📈 Statistics Overview
   
   ### GitHub Stats & Streak
