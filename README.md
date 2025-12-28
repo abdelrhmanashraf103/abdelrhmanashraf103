@@ -40,15 +40,19 @@
   <!-- Animated GitHub Stats -->
   ## 📊 GitHub Statistics
   
-  <!-- Trophy Stats -->
+  <!-- Animated GitHub Stats -->
+## 📊 GitHub Statistics
+
+  <img src="https://github-profile-trophy.vercel.app/?username=abdelrhmanashraf103&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="Trophy"/>
+  
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=abdelrhmanashraf103&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophy"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdelrhmanashraf103&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats"/>
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrhmanashraf103&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
   </p>
   
-  <!-- Main Stats Row -->
   <p align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdelrhmanashraf103&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrhmanashraf103&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+    <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdelrhmanashraf103&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B" alt="Activity Graph"/>
   </p>
   
   <!-- Languages & Contributions -->
