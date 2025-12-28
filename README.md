@@ -21,15 +21,21 @@
   <!-- About Me with Icons -->
   ## 👨‍💻 About Me
   
-  ```typescript
-  const abdelrahman = {
-      role: "Data Analyst",
-      experience: "Former Samsung Professional",
-      specialties: ["Data Analysis", "Business Intelligence", "Data Visualization"],
-      currentFocus: "Transforming complex data into actionable insights",
-      funFact: "I turn coffee into dashboards ☕📊"
-  };
-  ```
+  <table align="center">
+    <tr>
+      <td align="center" width="500">
+        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+        <br><br>
+        <b>💼 Role:</b> Data Analyst<br>
+        <b>🏢 Experience:</b> Former Samsung Professional<br>
+        <b>🎯 Specialties:</b><br>
+        📊 Data Analysis | 💡 Business Intelligence | 📈 Data Visualization<br>
+        <b>🔭 Current Focus:</b><br>
+        Transforming complex data into actionable insights<br>
+        <b>⚡ Fun Fact:</b> I turn coffee into dashboards ☕📊
+      </td>
+    </tr>
+  </table>
 
   <!-- Animated GitHub Stats -->
   ## 📊 GitHub Statistics
