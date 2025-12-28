@@ -100,7 +100,7 @@
 
 ### 📊 Data Analytics Portfolio
 
-<div align="center">
+<!-- <div align="center">
   
   #### 💼 Personal Portfolio Website
   <p align="center">
@@ -118,11 +118,11 @@
     <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat&logo=githubpages&logoColor=white" alt="GitHub Pages">
   </p>
   
-</div>
+</div> -->
 
 ### 🎯 Data Analysis Projects
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td width="50%" align="center">
       <h3>📈 Sales Analysis Dashboard</h3>
@@ -147,7 +147,7 @@
       </a>
     </td>
   </tr>
-</table>
+</table> -->
 
 <div align="center">
   <p>
