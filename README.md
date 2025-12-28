@@ -185,7 +185,6 @@
   <p align="center">
     ⭐ From <a href="https://github.com/abdelrhmanashraf103">Abdelrahman Haroun</a> with ❤️
     <br>
-    <sub>Last Updated: $(date +%Y-%m-%d)</sub>
   </p>
 
 </div>
