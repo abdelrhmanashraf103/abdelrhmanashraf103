@@ -94,33 +94,74 @@
   </p>
 
   <!-- Animated Divider -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-  ## 🚀 Featured Projects
+## 🚀 Featured Projects
 
-  ### 💼 Portfolio Website
+### 📊 Data Analytics Portfolio
+
+<div align="center">
+  
+  #### 💼 Personal Portfolio Website
   <p align="center">
     <a href="https://github.com/abdelrhmanashraf103/MyPortfolio.github.io">
-    
-  <img src="[https://img.shields.io/badge/📊_Data_Analysis_Projects-View_Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white](https://github-readme-stats.vercel.app/api/pin/?username=abdelrhmanashraf103&repo=MyPortfolio.github.io&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9")" alt="Data Analysis Projects"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrhmanashraf103&repo=MyPortfolio.github.io&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&show_owner=true" alt="Portfolio Project" width="80%"/>
     </a>
+    <br>
+    <em>Interactive portfolio showcasing data analytics projects, skills, and professional experience</em>
   </p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat&logo=githubpages&logoColor=white" alt="GitHub Pages">
+  </p>
+  
+</div>
 
-  ### 📊 Data Analysis Projects
-  <p align="center">
-    <a href="https://github.com/abdelrhmanashraf103?tab=repositories">
-      <img src="https://img.shields.io/badge/📊_Data_Analysis_Projects-View_Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Data Analysis Projects"/>
-    </a>
-  </p>
- 
-  <p align="center">
-    <a href="https://github.com/abdelrhmanashraf103?tab=repositories">
-      <img src="https://img.shields.io/badge/📂_View_All_Projects-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
-    </a>
-  </p>
+### 🎯 Data Analysis Projects
 
-  <!-- Animated Divider -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <h3>📈 Sales Analysis Dashboard</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+        <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
+      </p>
+      <p>Interactive sales dashboard with trend analysis and predictive insights</p>
+      <a href="https://github.com/abdelrhmanashraf103?tab=repositories">
+        <img src="https://img.shields.io/badge/View_Project-58A6FF?style=flat&logo=github&logoColor=white" alt="View Project">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3>🔍 Customer Segmentation</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
+      </p>
+      <p>Machine learning-based customer segmentation using clustering algorithms</p>
+      <a href="https://github.com/abdelrhmanashraf103?tab=repositories">
+        <img src="https://img.shields.io/badge/View_Project-58A6FF?style=flat&logo=github&logoColor=white" alt="View Project">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <p>
+    <a href="https://github.com/abdelrhmanashraf103?tab=repositories">
+      <img src="https://img.shields.io/badge/📂_Explore_All_Projects-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Projects"/>
+    </a>
+    <a href="https://abdelrhmanashraf103.github.io/MyPortfolio.github.io/">
+      <img src="https://img.shields.io/badge/🌐_Live_Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio"/>
+    </a>
+  </p>
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
   <!-- Connect Section -->
   ## 🌐 Let's Connect!
