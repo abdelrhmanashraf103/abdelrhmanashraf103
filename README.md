@@ -103,14 +103,17 @@
    ## 🚀 Featured Projects
  
  <p align="center">
-   <!-- Project 1 -->
-   <a href="https://github.com/abdelrhmanashraf103/MyPortfolio">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrhmanashraf103&repo=MyPortfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Portfolio Project"/>
-   </a>
-   <!-- Project 2 -->
-   <a href="https://github.com/abdelrhmanashraf103/Data-Analysis">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrhmanashraf103&repo=Data-Analysis&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Data Analysis Projects"/>
-   </a>
+   ### 💼 Portfolio Website
+  <a href="https://github.com/abdelrhmanashraf103/MyPortfolio.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrhmanashraf103&repo=MyPortfolio.github.io&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Portfolio Project" width="45%"/>
+  </a>
+   
+   ### 📊 Data Analysis Projects
+  <a href="https://github.com/abdelrhmanashraf103?tab=repositories">
+    <img src="https://img.shields.io/badge/📊_Data_Analysis_Projects-View_Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Data Analysis Projects"/>
+  </a>
+  
+  </div>
  </p>
  
  <p align="center">
