@@ -1,96 +1,144 @@
 <div align="center">
-  <div style="background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); padding: 30px; border-radius: 10px; border: 1px solid #30363d; margin-bottom: 20px;">
-    <h1 style="color: #58a6ff; font-size: 2.5rem; margin: 0; text-shadow: 0 0 10px rgba(88, 166, 255, 0.5);">
-      ⚡ Abdelrahman Haroun ⚡
-    </h1>
-    <p style="color: #f0f6fc; font-size: 1.5rem; margin: 10px 0;">
-      Data Analyst | Former Samsung Professional
-    </p>
-    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-top: 15px;">
-      <span style="background: #238636; padding: 5px 15px; border-radius: 20px; color: white;">📊 Data Visualization</span>
-      <span style="background: #1f6feb; padding: 5px 15px; border-radius: 20px; color: white;">🔍 Insights</span>
-      <span style="background: #8957e5; padding: 5px 15px; border-radius: 20px; color: white;">📈 Analytics</span>
-    </div>
-  </div>
-
-  <h1>Hi there, I'm Abdelrahman Haroun! 👋</h1>
-
-  <!-- Professional tagline -->
-  <p><b>Data Analyst | Former Samsung Professional | Transforming Raw Data into Strategic Insights 📈</b></p>
-
-  <!-- GitHub stats -->
-  <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=abdelrhmanashraf103&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="45%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrhmanashraf103&theme=radical" alt="GitHub Streak" width="45%"/>
-  </div>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhmanashraf103&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="50%"/>
-
-  <!-- Skills & Tools Section -->
-  <h2>Skills & Tools 💻</h2>
   
-  <!-- Programming Languages -->
-  <h3>Programming Languages 💻</h3>
-  <div style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center; margin: 15px 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" title="Python"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50" title="R"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" title="C"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" title="PHP"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" title="HTML5"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" title="CSS3"/>
-  </div>
+  <!-- Animated Header -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdelrahman%20Haroun&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Data+Analyst+%7C+Former+Samsung+Professional;Transforming+Raw+Data+into+Strategic+Insights+%F0%9F%93%8A;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau" alt="Typing SVG" />
+  </a>
 
-  <!-- Databases -->
-  <h3>Databases 🗃️</h3>
-  <div style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center; margin: 15px 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" title="MySQL"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" title="PostgreSQL"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" title="MongoDB"/>
-  </div>
+  <!-- Animated Badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Data-Visualization-238636?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Data Viz"/>
+    <img src="https://img.shields.io/badge/Business-Insights-1f6feb?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Insights"/>
+    <img src="https://img.shields.io/badge/Advanced-Analytics-8957e5?style=for-the-badge&logo=databricks&logoColor=white" alt="Analytics"/>
+  </p>
 
-  <!-- Data Visualization -->
-  <h3>Data Visualization 📊</h3>
-<!--   <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; margin: 15px 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="50" height="50" title="Power BI"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="50" height="50" title="Tableau"/>
-  </div> -->
-  <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; margin: 10px 0;">
+  <!-- Wave Animation -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+  <!-- About Me with Icons -->
+  ## 👨‍💻 About Me
+  
+  ```typescript
+  const abdelrahman = {
+      role: "Data Analyst",
+      experience: "Former Samsung Professional",
+      specialties: ["Data Analysis", "Business Intelligence", "Data Visualization"],
+      currentFocus: "Transforming complex data into actionable insights",
+      funFact: "I turn coffee into dashboards ☕📊"
+  };
+  ```
+
+  <!-- Animated GitHub Stats -->
+  ## 📊 GitHub Statistics
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=abdelrhmanashraf103&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="Trophy"/>
+  
+  <p align="center">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdelrhmanashraf103&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats"/>
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrhmanashraf103&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+  </p>
+  
+  <p align="center">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhmanashraf103&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+    <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdelrhmanashraf103&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B" alt="Activity Graph"/>
+  </p>
+
+  <!-- Animated Divider -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+  <!-- Skills Section with Animations -->
+  ## 🛠️ Technical Skills
+  
+  ### 💻 Programming Languages
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,r,c,php,html,css&theme=dark&perline=6" alt="Programming Languages"/>
+  </p>
+
+  ### 🗃️ Databases
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" alt="Databases"/>
+  </p>
+
+  ### 📊 Data Visualization & Analytics
+  <p align="center">
     <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-  </div>
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  </p>
 
-  <!-- Data Science -->
-  <h3>Data Science 🧠</h3>
-  <div style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center; margin: 15px 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" title="Pandas"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" title="NumPy"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" title="Jupyter"/>
-  </div>
+  ### 🧠 Data Science & ML
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-learn"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  </p>
 
-  <!-- Projects Section -->
-  <h2>Featured Projects 🚀</h2>
-  <p>Check out my pinned repositories below to see some of my data analysis projects!</p>
+  <!-- Animated Divider -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+  <!-- Featured Projects -->
+  ## 🚀 Featured Projects
+  
+  <p align="center">
+    <a href="https://github.com/abdelrhmanashraf103">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrhmanashraf103&repo=your-repo-name&theme=radical&hide_border=true&bg_color=0D1117" alt="Featured Project"/>
+    </a>
+  </p>
+  
+  <p align="center">
+    <b>📌 Check out my pinned repositories below for more amazing projects!</b>
+  </p>
+
+  <!-- Animated Divider -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
   <!-- Connect Section -->
-  <h2>Let's Connect 🌐</h2>
-  <div align="center">
-    <a href="https://linkedin.com/in/abdelrahman-haroun" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  ## 🌐 Let's Connect!
+  
+  <p align="center">
+    <a href="https://linkedin.com/in/abdelrahman-haroun">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"/>
     </a>
-    <a href="https://x.com/abdo_ashraf103" target="_blank">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+    <a href="https://x.com/abdo_ashraf103">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&style=flat-square" alt="X"/>
     </a>
     <a href="mailto:bnashraf440@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square" alt="Email"/>
     </a>
-  </div>
+  </p>
 
-  <!-- Profile Views -->
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=abdelrhmanashraf103&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+  <!-- Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdelrhmanashraf103/abdelrhmanashraf103/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdelrhmanashraf103/abdelrhmanashraf103/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abdelrhmanashraf103/abdelrhmanashraf103/output/github-contribution-grid-snake.svg">
+  </picture>
+
+  <!-- Profile Views Counter -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=abdelrhmanashraf103&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
+  </p>
+
+  <!-- Animated Footer -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+  <!-- Quote -->
+  <p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  </p>
+
+  ---
   
-  <!-- Closing -->
-  <p>Thanks for visiting my profile! Feel free to explore my repositories and get in touch. 🚀</p>
-</div>
+  <p align="center">
+    <b>💡 "Data is the new oil, but analytics is the combustion engine!"</b>
+  </p>
+  
+  <p align="center">
+    ⭐ From <a href="https://github.com/abdelrhmanashraf103">Abdelrahman Haroun</a> with ❤️
+  </p>
 
+</div>
