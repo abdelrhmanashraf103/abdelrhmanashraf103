@@ -10,8 +10,12 @@
 
   <!-- Animated Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Data-Visualization-238636?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Data Viz"/>
-    <img src="https://img.shields.io/badge/Business-Insights-1f6feb?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Insights"/>
+    <a href="https://github.com/abdelrhmanashraf103?tab=repositories">
+      <img src="https://img.shields.io/badge/Data-Visualization-238636?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Data Viz"/>
+    </a>
+    <a href="https://abdelrhmanashraf103.github.io/MyPortfolio.github.io/">
+      <img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    </a>
     <img src="https://img.shields.io/badge/Advanced-Analytics-8957e5?style=for-the-badge&logo=databricks&logoColor=white" alt="Analytics"/>
   </p>
 
@@ -28,6 +32,7 @@
         <br><br>
         <b>💼 Role:</b> Data Analyst<br>
         <b>🏢 Experience:</b> Former Samsung Professional<br>
+        <b>📍 Location:</b> Egypt<br>
         <b>🎯 Specialties:</b><br>
         📊 Data Analysis | 💡 Business Intelligence | 📈 Data Visualization<br>
         <b>🔭 Current Focus:</b><br>
@@ -37,25 +42,33 @@
     </tr>
   </table>
 
-  <!-- Animated GitHub Stats -->
-## 📊 GitHub Statistics
+  <!-- Quick Links -->
+  <p align="center">
+    <a href="https://abdelrhmanashraf103.github.io/MyPortfolio.github.io/">
+      <img src="https://img.shields.io/badge/📁_View_Portfolio-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="https://github.com/abdelrhmanashraf103?tab=repositories">
+      <img src="https://img.shields.io/badge/📂_All_Projects-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+    </a>
+  </p>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=abdelrhmanashraf103&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="Trophy"/>
+  # 📊 GitHub Statistics
+
+  ## 🏆 GitHub Trophies
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abdelrhmanashraf103&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)
   
+  ## 📈 Statistics Overview
+  
+  ### GitHub Stats & Streak
   <p align="center">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdelrhmanashraf103&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats"/>
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrhmanashraf103&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
   </p>
   
-  <p align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?                  username=abdelrhmanashraf103&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-    <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdelrhmanashraf103&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B"             alt="Activity Graph"/>
-  </p>
-  
-  <!-- Languages & Contributions -->
+  ### Top Languages & Activity
   <p align="center">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhmanashraf103&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=abdelrhmanashraf103&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Coding Stats"/>
+    <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdelrhmanashraf103&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B" alt="Activity Graph"/>
   </p>
 
   <!-- Animated Divider -->
@@ -66,27 +79,21 @@
   
   ### 💻 Programming Languages
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,r,c,php,html,css&theme=dark&perline=6" alt="Programming Languages"/>
+    <img src="https://skillicons.dev/icons?i=python,mysql,html,css,php,java&theme=dark&perline=6" alt="Programming Languages"/>
   </p>
 
-  ### 🗃️ Databases
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" alt="Databases"/>
-  </p>
-
-  ### 📊 Data Visualization & Analytics
+  ### 📊 Data Analysis & Visualization
   <p align="center">
     <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
     <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-  </p>
-
-  ### 🧠 Data Science & ML
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-learn"/>
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
     <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  </p>
+
+  ### 🗃️ Databases & Tools
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,git,github,vscode&theme=dark&perline=6" alt="Databases & Tools"/>
   </p>
 
   <!-- Animated Divider -->
@@ -96,13 +103,20 @@
   ## 🚀 Featured Projects
   
   <p align="center">
+    <!-- Project 1 -->
     <a href="https://github.com/abdelrhmanashraf103">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrhmanashraf103&repo=your-repo-name&theme=radical&hide_border=true&bg_color=0D1117" alt="Featured Project"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrhmanashraf103&repo=MyPortfolio.github.io&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Portfolio Project"/>
+    </a>
+    <!-- Project 2 -->
+    <a href="https://github.com/abdelrhmanashraf103?tab=repositories">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdelrhmanashraf103&repo=Data-Analysis-Projects&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Data Analysis Projects"/>
     </a>
   </p>
   
   <p align="center">
-    <b>📌 Check out my pinned repositories below for more amazing projects!</b>
+    <a href="https://github.com/abdelrhmanashraf103?tab=repositories">
+      <img src="https://img.shields.io/badge/📂_View_All_Projects-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
+    </a>
   </p>
 
   <!-- Animated Divider -->
@@ -112,14 +126,27 @@
   ## 🌐 Let's Connect!
   
   <p align="center">
-    <a href="https://linkedin.com/in/abdelrahman-haroun">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"/>
+    <a href="https://www.linkedin.com/in/abdelrhman-haroun-455aa930a/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://x.com/abdo_ashraf103">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&style=flat-square" alt="X"/>
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    </a>
+    <a href="https://abdelrhmanashraf103.github.io/MyPortfolio.github.io/">
+      <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
     </a>
     <a href="mailto:bnashraf440@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square" alt="Email"/>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://github.com/abdelrhmanashraf103">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </p>
+
+  <!-- GitHub Stats Cards -->
+  <p align="center">
+    <a href="https://github.com/abdelrhmanashraf103">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdelrhmanashraf103&theme=radical" alt="Profile Details" width="100%"/>
     </a>
   </p>
 
@@ -127,16 +154,22 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdelrhmanashraf103/abdelrhmanashraf103/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdelrhmanashraf103/abdelrhmanashraf103/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abdelrhmanashraf103/abdelrhmanashraf103/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abdelrhmanashraf103/abdelrhmanashraf103/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 
   <!-- Profile Views Counter -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=abdelrhmanashraf103&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/abdelrhmanashraf103?label=Followers&style=for-the-badge&color=58A6FF" alt="GitHub Followers"/>
   </p>
 
   <!-- Animated Footer -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+  <!-- GitHub Contributions -->
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelrhmanashraf103&theme=github-compact&hide_border=true&area=true&height=300" alt="GitHub Contributions" width="100%"/>
+  </p>
 
   <!-- Quote -->
   <p align="center">
@@ -151,6 +184,8 @@
   
   <p align="center">
     ⭐ From <a href="https://github.com/abdelrhmanashraf103">Abdelrahman Haroun</a> with ❤️
+    <br>
+    <sub>Last Updated: $(date +%Y-%m-%d)</sub>
   </p>
 
 </div>
